@@ -1,4 +1,4 @@
-![MasterHead](https://img.freepik.com/free-vector/cloud-services-isometric-composition-with-big-cloud-computing-infrastructure-elements-connected-with-dashed-lines-vector-illustration_1284-30495.jpg?w=2000)
+![MasterHead](https://www.cloudopedia.in/wp-content/uploads/2019/03/cloud-computing-GIF.gif)
 <h1 align="center">Hi 😊, I'm Amit Pattanayak</h1>
 <h3 align="center">Passionate about the convergence of two powerful technologies- Cloud Computing &Blockchain</h3>
 <img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">

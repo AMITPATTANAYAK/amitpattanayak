@@ -1,4 +1,4 @@
-![MasterHead](https://www.cloudopedia.in/wp-content/uploads/2019/03/cloud-computing-GIF.gif)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm Amit Pattanayak</h1>
 <h3 align="center">Passionate about the convergence of two powerful technologies- Cloud Computing &Blockchain</h3>
 <img align="right" alt="coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">

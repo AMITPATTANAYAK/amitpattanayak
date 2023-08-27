@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **WEB DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [https://amitpattanayakportfolio.netlify.app/](https://amitpattanayakportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://amitkumarpattanayak.me](https://amitkumarpattanayak.me)
 
 - 📫 How to reach me **apattanayak2002@gmail.com**
 - 📫 How to reach me 1000017603@dit.edu.in

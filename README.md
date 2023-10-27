@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm AMIT PATTANAYAK</h1>
 <h3 align="center">I am WEB 3 enthusiast and an aspiring Full Stack developer with  DevOps</h3>

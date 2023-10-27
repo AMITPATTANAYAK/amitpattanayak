@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amitpat90414885" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amitpat90414885" height="30" width="40" /></a>
+<a href="https://twitter.com/amitpat90414885" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="amitpat90414885" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amit-kumar-pattanayak-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/amit-kumar-pattanayak-?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b2yhxhpu3qzqt1ku%2fqasnsw%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/amitkumar_126331?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="natureloveramit126331" height="30" width="40" /></a>
 </p>

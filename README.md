@@ -1,5 +1,5 @@
-![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm Amit Pattanayak</h1>
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+<h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm AMIT PATTANAYAK</h1>
 <h3 align="center">Passionate about the convergence of two powerful technologies- Cloud Computing &Blockchain</h3>
 <img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif">
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amitpat90414885" target="blank"><img src="https://img.shields.io/twitter/follow/amitpat90414885?logo=twitter&style=for-the-badge" alt="amitpat90414885" /></a> </p>
 
-- 🌱 I’m currently learning **WEB DEVELOPMENT**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://amitkumarpattanayak.me](https://amitkumarpattanayak.me)
 

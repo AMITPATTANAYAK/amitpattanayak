@@ -12,10 +12,10 @@
 - 🌱 I’m currently learning **MERN STACK**
 
 - 🌱 I’m currently focusing on  **DSA**
-- 👨‍💻 💫 About Me: [https://amitkumarpattanayak.me](https://amitkumarpattanayak.me)
+- 👨‍💻 💫 About Me: **(https://amitkumarpattanayak.me)**
 
 - 📫 How to reach me **apattanayak2002@gmail.com**
-- 📫 How to reach me 1000017603@dit.edu.in
+- 📫 How to reach me **1000017603@dit.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

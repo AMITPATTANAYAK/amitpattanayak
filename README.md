@@ -12,7 +12,6 @@
 - 🌱 I’m currently learning **MERN STACK**
 
 - 🌱 I’m currently focusing on  **DSA**
-- 👨‍💻 💫 About Me: **(https://amitpattanayakportfolio.netlify.app/)**
 
 - 📫 How to reach me **apattanayak2002@gmail.com**
 - 📫 How to reach me **1000017603@dit.edu.in**

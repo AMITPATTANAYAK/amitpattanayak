@@ -9,12 +9,11 @@
 
 <p align="left"> <a href="https://twitter.com/amitpat90414885" target="blank"><img src="https://img.shields.io/twitter/follow/amitpat90414885?logo=twitter&style=for-the-badge" alt="amitpat90414885" /></a> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🚀 I’m currently working on a **HANDS ON PROJECT**
 
-- 🌱 I’m currently focusing on  **DSA**
+- 🔍 I’m currently focusing on  **DEVELOPMENT**
 
-- 📫 How to reach me **apattanayak2002@gmail.com**
-- 📫 How to reach me **1000017603@dit.edu.in**
+- 📧 How to reach me **apattanayak2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

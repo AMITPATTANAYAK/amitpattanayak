@@ -35,14 +35,12 @@
 
 <hr>
 
-<p align="center">
-         <img  alt="stats card" height="200px" width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpattanayak&theme=radical">
-         <br>
-<!--          <img  alt="stats card" height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=amitpattanayak&count_private=true&theme=radical&show_icons=true">
-         <br> -->
-<!--          <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpattanayak&theme=radical&show_icons=true"> -->
-         <br>
-</p>
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AMITPATTANAYAK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=AMITPATTANAYAK&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMITPATTANAYAK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
 ## 🏅 Postman API Badge
 
 [![Postman API Proficiency](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A/image)](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A)

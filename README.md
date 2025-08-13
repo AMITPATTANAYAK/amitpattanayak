@@ -1,47 +1,58 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FFC6&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile!;I'm+Amit+Kumar+Pattanayak;Full+Stack+Developer+%7C+DevOps+Enthusiast;Let's+Build+Something+Awesome!)](https://git.io/typing-svg)
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
-<h1 align="center">Hi <img src="https://i.pinimg.com/originals/0e/3e/e5/0e3ee551876e1ad2a39f89e4adf9168a.gif" alt="Waving hand animated gif" height="40" width="40"/>, I'm AMIT PATTANAYAK</h1>
-<h3 align="center"> an aspiring Full Stack developer with  DevOps</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amitpattanayak&label=Profile%20views&color=0e75b6&style=flat" alt="amitpattanayak" /> </p>
+<h1 align="center">
+  👋 Hey, I'm <span style="color:#00ffc6">Amit Kumar Pattanayak</span>
+</h1>
 
-<p align="left"> <a href="https://twitter.com/amitpat90414885" target="blank"><img src="https://img.shields.io/twitter/follow/amitpat90414885?logo=twitter&style=for-the-badge" alt="amitpat90414885" /></a> </p>
+<h3 align="center">🚀 Aspiring Full Stack Developer | ⚙️ DevOps Enthusiast | 🌏 Explorer</h3>
 
-- 🚀 I’m currently working on a **HANDS ON PROJECT**
+---
 
-- 🔍 I’m currently focusing on  **DEVELOPMENT**
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-- 📧 How to reach me **apattanayak2002@gmail.com**
+### 👨‍💻 About Me
+- 🔭 **Currently working on:** Hands-on development projects  
+- 🎯 **Focusing on:** Full Stack Development & DevOps  
+- 📬 **Reach me at:** apattanayak2002@gmail.com  
+- ✈️ **Fun fact:** I love exploring new places and cultures!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amitpat90414885" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif" alt="amitpat90414885" width="100" /></a>
-<a href="https://www.linkedin.com/in/amit-kumar-pattanayak-/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="https://www.linkedin.com/in/amit-kumar-pattanayak-?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base_contact_details%3b2yhxhpu3qzqt1ku%2fqasnsw%3d%3d" width="100" /></a>
-<a href="https://instagram.com/amitkumar_126331?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="blank"><img align="center" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="natureloveramit126331" h width="100" /></a>
+---
+
+### 🌐 Connect with Me
+<p align="center">
+<a href="https://twitter.com/amitpat90414885"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/amit-kumar-pattanayak-/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/amitkumar_126331"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+---
+
+### 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mysql,mongodb,git,github,c,cpp,bootstrap,tailwind,vscode,netlify,postman" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AMITPATTANAYAK&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AMITPATTANAYAK&theme=tokyonight&hide_border=false" height="180"/>
 </p>
 
 <p align="center">
-
-  <a href="https://skillicons.dev">
-<!--     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css,js,jquery,bootstrap,vscode,netlify" /> -->
-    <img src="https://skillicons.dev/icons?i=git,github,c,cpp,html,css" />
-    <img src="https://skillicons.dev/icons?i=js,nodejs,expressjs,react" />
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,bootstrap,tailwindcss" />
-<img src="https://skillicons.dev/icons?i=vscode,netlify,postman" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AMITPATTANAYAK&theme=tokyonight&layout=compact&hide_border=false" height="180"/>
 </p>
 
-<hr>
+---
 
- # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AMITPATTANAYAK&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AMITPATTANAYAK&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AMITPATTANAYAK&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
-## 🏅 Postman API Badge
-
+### 🏅 Achievements
 [![Postman API Proficiency](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A/image)](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A)
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AMITPATTANAYAK&label=Profile%20Views&color=00ffc6&style=for-the-badge" />
+</p>

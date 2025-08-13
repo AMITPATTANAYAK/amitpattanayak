@@ -43,8 +43,7 @@
 <!--          <img alt="stats card" height="250px" width="600px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitpattanayak&theme=radical&show_icons=true"> -->
          <br>
 </p>
+## 🏅 Postman API Badge
 
-
-
-
+[![Postman API Proficiency](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A/image)](https://api.badgr.io/public/assertions/cfYe2uhiSA6AU-RTpktm1A)
 

@@ -3,7 +3,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00ffc6">Amit Kumar Pattanayak</span></h1>
-<h3 align="center">⚙️🐳☁️🚀 Aspiring DevOps Engineer </h3>
+<h3 align="center">⚙️🐳☁️🚀 DevOps Engineer </h3>
 
 
 ---
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 - 🔭 Currently learning **DevOps tools & practices**  
-- 🎯 Preparing to build **hands-on DevOps projects** in the upcoming months  
+- 🎯 Preparing to build **hands-on DevOps projects**  
 - 📫 Reach me at **apattanayak2002@gmail.com**  
 
 ---
